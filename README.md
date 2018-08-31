@@ -8,4 +8,4 @@ This project is an **extension** from [this](https://www.youtube.com/watch?v=tIX
 2. A dropdown from which you can select different optimisers, namely **adam delta** and **stochastic gradient descent**.
 
 Here is a snapshot of the project.
-![Image](![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png))
+![image](https://github.com/mehtaanuj95/polynomial_regression_p5_tf/blob/master/image1.PNG)
