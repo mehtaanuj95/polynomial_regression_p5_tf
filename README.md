@@ -6,3 +6,6 @@ This project is an **extension** from [this](https://www.youtube.com/watch?v=tIX
 **My additions to this project are:-**
 1. A slider that can alter the learning rate of the algorithm.
 2. A dropdown from which you can select different optimisers, namely **adam delta** and **stochastic gradient descent**.
+
+Here is a snapshot of the project.
+![Image](![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png))
